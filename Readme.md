@@ -27,10 +27,10 @@ This tool allows you to encrypt and decrypt images using a keyword-based encrypt
 
 ### Running the Program
 
-1. Open a terminal and navigate to the folder containing the `img_crypt.py` file.
+1. Open a terminal and navigate to the folder containing the `imgCrypt.py` file.
 2. Run the script:
    ```bash
-   python img_crypt.py
+   python imgCrypt.py
    ```
 
 ### Options
